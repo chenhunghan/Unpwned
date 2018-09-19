@@ -1,4 +1,4 @@
-A React component check if the password has been pwned using <https://haveibeenpwned.com/>. I
+A React component check if the password has been pwned using <https://haveibeenpwned.com/>
 
 It uses a render prop which gives you maximum flexibility because you are responsible for the rendering of everything and you simply apply props to what you're rendering.
 
